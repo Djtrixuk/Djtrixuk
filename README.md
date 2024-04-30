@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Djtrixuk
-- 👀 I’m interested in the Solana NFT ecosyetem
-- 🌱 I’m currently learning to deploy code
+- 👀 I’m building Solana's first and largest NFT Syndicate network
+- ⚡️ Covering Solana, SUI, Bitcoin, ETH & Base
+- 🌱 I’m currently learning Rust 
 - 💞️ I’m looking to collaborate on Fearless Bulls Club
 - 📫 How to reach me: Twitter @Djtrixuk  
 
